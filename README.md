@@ -33,6 +33,9 @@ _Usage examples: stock price forecast, sales analysis, dependency of any number,
 
 #### 🚀 Linear Regression
 
+- 📗 [Math | Linear Regression](Projects/Linear_Regression) - theory and links for further readings
+- 💻 [Code | Linear Regression](Projects/Linear_Regression/https://github.com/jousefm/Machine-Learning-Sentdex/blob/master/Intro.ipynb) - implementation example from **[sentdex](https://www.youtube.com/user/sentdex)**
+
 
 ### Classification
 
