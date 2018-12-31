@@ -127,3 +127,8 @@ After this Jupyter Notebook will be accessible by `http://localhost:8888`.
 ## Datasets
 
 The list of datasets that is being used for Jupyter Notebook demos may be found in **[data folder](Data)**.
+
+
+## Shoutout
+
+Design of this repository inspired by [Oleksii Trekhleb](https://github.com/trekhleb)
