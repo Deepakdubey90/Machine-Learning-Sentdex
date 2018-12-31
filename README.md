@@ -33,8 +33,8 @@ _Usage examples: stock price forecast, sales analysis, dependency of any number,
 
 #### 🚀 Linear Regression
 
-- 📗 [Math | Linear Regression](Projects/Linear_Regression) - theory and links for further readings
-- 💻 [Code | Linear Regression](https://github.com/jousefm/Machine-Learning-Sentdex/blob/master/Intro.ipynb) - implementation example from **[sentdex](https://www.youtube.com/user/sentdex)**
+- 📗 **[Math | Linear Regression](Projects/Linear_Regression)** - theory and links for further readings
+- 💻 **[Code | Linear Regression](https://github.com/jousefm/Machine-Learning-Sentdex/blob/master/Intro.ipynb)** - implementation example from **[sentdex](https://www.youtube.com/user/sentdex)**
 
 
 ### Classification
@@ -134,4 +134,4 @@ The list of datasets that is being used for Jupyter Notebook demos may be found 
 
 ## Shoutout
 
-Design of this repository inspired by [Oleksii Trekhleb](https://github.com/trekhleb)
+Design of this repository inspired by **[Oleksii Trekhleb](https://github.com/trekhleb)**
